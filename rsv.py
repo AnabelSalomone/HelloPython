@@ -19,7 +19,7 @@ def array_diff(a, b):
 
 #Correct answer:
 def array_diff(a, b):
-  return [x for x in a if x not in b]
+  return [x for x in a if x not in b] #list comprehension 
 
   
 
